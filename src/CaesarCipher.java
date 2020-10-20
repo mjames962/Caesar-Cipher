@@ -1,3 +1,7 @@
+/**
+ * Class to model a Caesar/shift cipher.
+ * @author Mitch James
+ */
 public class CaesarCipher {
     /**
      * caesar cipher on a character, shifts the character across the alphabet by the key.
